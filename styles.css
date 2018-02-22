@@ -1,0 +1,18 @@
+html{
+    background-color: black;
+    color: Red;
+}
+.gameComponet{
+    height: 100px;
+    width: 100px;
+    padding: 150px;
+    display: inline-grid;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 1;
+}
+.img{
+    height: 200px;
+    width: auto;
+    border: 3px solid red;
+}
